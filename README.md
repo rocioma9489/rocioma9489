@@ -1,4 +1,5 @@
-### Hi there 👋
+Hola!!! mi nombre es Rocío
+🌱 Actualmente estoy tomando un bootcamp de desarrollo WEB
 
 <!--
 **rocioma9489/rocioma9489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
