@@ -1,4 +1,5 @@
-Hola!!! mi nombre es Rocío
+Hola!!! mi nombre es 
+
 🌱 Actualmente estoy tomando un bootcamp de desarrollo WEB
 
 <!--
